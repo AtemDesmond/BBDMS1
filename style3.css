@@ -1,0 +1,44 @@
+.gradient-custom {
+/* fallback for old browsers */
+background: #f6d365;
+
+/* Chrome 10-25, Safari 5.1-6 */
+background: -webkit-linear-gradient(to right bottom, rgba(246, 211, 101, 1), rgba(253, 160, 133, 1));
+
+/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: linear-gradient(to right bottom, rgba(246, 211, 101, 1), rgba(253, 160, 133, 1))
+}
+#company{
+	background:#333;
+	color:#fff;
+	padding:10px 0;
+}
+#company h4{
+	text-transform:uppercase;
+	margin:0;
+}
+#company ul{
+	padding:0;
+	list-style: none;
+	line-height: 2em;
+}
+#company input[type="text"]{
+	padding:7px;
+}
+#company button{
+	background:#222;
+	color: #fff;
+	padding:10px;
+	border:0;
+	margin:10px 0;
+}
+/*FOOTER*/
+#main-footer{
+	background:#56a79a;
+	color: #fff;
+}
+.container{
+
+	border:1px solid blue;
+	border-radius: 30px;
+}

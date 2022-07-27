@@ -1,0 +1,31 @@
+body{
+	font-family:'open-sans', sans-serif;
+	font-size: 17px;
+	line-height: 1.5em; 
+	margin:0;
+	padding:0;
+	background:url('../images/e.jpg')  ;
+}
+form {
+	background:url('../images/k.jpg') center center;
+	padding:50px;
+	background-color:lightgrey; 
+    opacity:0.6;
+	border:2px solid blue;
+	border-radius:30px;
+    width: 300px;
+    margin: 30px auto;
+}
+
+#lf{
+color:blue;
+}
+#rf{
+color:blue;
+}
+a {
+   font-style: italic;
+   text-decoration: none;
+   color:white; 
+
+   }
